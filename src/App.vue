@@ -1,12 +1,11 @@
 <template>
   <div>
-    <h1>hello vue</h1>
+    <h1>hello vue1</h1>
   </div>
 </template>
 
 <script setup>
    import {ref} from 'vue';
-
 </script>
 
 <style lang="less" scoped>
